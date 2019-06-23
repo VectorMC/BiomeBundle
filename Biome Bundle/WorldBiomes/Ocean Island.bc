@@ -18,9 +18,9 @@ ResourceInheritance: true
 
 BiomeSize: 7
 
-BiomeRarity: 50
+BiomeRarity: 100
 
-BiomeColor: #F1DCB1
+BiomeColor: #000000
 
 ReplaceToBiomeName: Birch Forest
 
@@ -32,7 +32,7 @@ IsleInBiome: Ocean, Deep Ocean
 
 BiomeSizeWhenIsle: 7
 
-BiomeRarityWhenIsle: 20
+BiomeRarityWhenIsle: 100
 
 ######################
 # Border biomes only #

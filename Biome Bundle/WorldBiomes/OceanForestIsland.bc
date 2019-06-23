@@ -18,9 +18,9 @@ ResourceInheritance: true
 
 BiomeSize: 9
 
-BiomeRarity: 50
+BiomeRarity: 100
 
-BiomeColor: #50A458
+BiomeColor: #FA9418
 
 ReplaceToBiomeName: Forest
 
@@ -32,7 +32,7 @@ IsleInBiome: Ocean, Deep Ocean
 
 BiomeSizeWhenIsle: 9
 
-BiomeRarityWhenIsle: 20
+BiomeRarityWhenIsle: 100
 
 ######################
 # Border biomes only #

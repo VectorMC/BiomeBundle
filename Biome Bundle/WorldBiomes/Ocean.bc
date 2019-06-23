@@ -18,9 +18,9 @@ ResourceInheritance: true
 
 BiomeSize: 4
 
-BiomeRarity: 80
+BiomeRarity: 10
 
-BiomeColor: #0000D0
+BiomeColor: #000070
 
 ####################
 # Isle biomes only #
@@ -30,7 +30,7 @@ IsleInBiome:
 
 BiomeSizeWhenIsle: 4
 
-BiomeRarityWhenIsle: 80
+BiomeRarityWhenIsle: 10
 
 ######################
 # Border biomes only #

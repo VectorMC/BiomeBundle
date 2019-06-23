@@ -18,9 +18,9 @@ ResourceInheritance: true
 
 BiomeSize: 8
 
-BiomeRarity: 50
+BiomeRarity: 100
 
-BiomeColor: #A1A1A1
+BiomeColor: #FA9418
 
 ReplaceToBiomeName: Extreme Hills
 
@@ -32,7 +32,7 @@ IsleInBiome: Ocean, Deep Ocean
 
 BiomeSizeWhenIsle: 8
 
-BiomeRarityWhenIsle: 10
+BiomeRarityWhenIsle: 100
 
 ######################
 # Border biomes only #
